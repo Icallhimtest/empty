@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'Birthday Wishes',
-    'version': '16.0.1.0.0',
+    'version': '16.0.1.0.1',
     'category': 'Human Resources/Human Resources',
     'summary': 'Birthday Wishes for Employee, Customer',
     'description': """
